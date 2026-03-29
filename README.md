@@ -26,7 +26,6 @@ methodology engine.
 ## Built With
 - Claude Desktop (Anthropic)
 - Notion MCP
-- Node.js
 - The Becoming Blueprint framework © Tadhkirah
 
 ## Submission
